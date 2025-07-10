@@ -1,0 +1,6 @@
+build/
+.xmake/
+dist/csgo/addons/crossfire.dll
+.cache/
+compile_commands.json
+.vscode/
