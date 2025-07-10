@@ -21,7 +21,8 @@ csgo crossplay between xbox 360, ps3 and pc (poc)
 2. extract/download both depots into the same directory
 3. drop crossfire.dll and crossfire.vdf into `csgo/addons`
 4. if you start the game now, you should see a cat in the window title (it's supposed to be a cat but the windows window title renderer is uhhhhhh suboptimal to say the least)
-5. the game should work now (hopefully,,,)
+5. get a cracked client.dll (you need this even though you own the game, thanks for CEG valve...) from [here](https://vaivesoftware.com/cracked-client.zip) and replace the binary in `csgo/bin` with this one (thanks to Mikko for this crack)
+6. the game should work now (hopefully,,,)
 
 ### xbox ~~720~~ 360 setup
 
