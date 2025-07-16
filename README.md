@@ -96,6 +96,6 @@ the (probably) easiest way to download things from steam is by using a tool call
 - 731: `./DepotDownloader -app 730 -depot 731 -manifest 291426208448326326`
 - 732: `./DepotDownloader -app 730 -depot 732 -manifest 760024964360109585`
 - 733: `./DepotDownloader -app 730 -depot 733 -manifest 4941625320971306498`
-- 740: `./DepotDownloader -app 740 -depot 740 -manifest 1031872640143727699`
+- 740: `./DepotDownloader -app 740 -depot 740 -manifest 4234207694164018948`
 
 <sup><sub>🐈</sub></sup>
