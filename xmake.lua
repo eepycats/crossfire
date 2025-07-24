@@ -20,7 +20,7 @@ target("crossfire")
             os.cp(target:targetfile(), "F:\\csgoded\\csgo\\addons\\")
             os.cp(target:targetfile(), "F:\\csgoclient\\csgo\\addons\\")
         end
-        os.cp(target:targetfile(), "./dist/csgo/addons")
+        os.cp(target:targetfile(), "./dist/csgo/addons/")
     end)
     after_load(function (target)
         if os.getenv("XMAKE_IN_PROJECT_GENERATOR") then
